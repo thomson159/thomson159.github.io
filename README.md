@@ -6,4 +6,4 @@
 
 <br />
 
-[discordapp.com](https://discordapp.com/users/716946817669005322)
+[Discord](https://discordapp.com/users/716946817669005322)

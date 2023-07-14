@@ -1,8 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm thomson159
 ===============================================================================================================================
 
-A passionate software developer
--------------------
+![3WsH](https://github.com/thomson159/thomson159/assets/82395633/a477e009-3dfc-4d03-abbe-9319aec4fb93)
 
 <a href="https://discord.com/users/716946817669005322" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
 

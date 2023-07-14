@@ -8,6 +8,7 @@ A passionate software developer
 
 * 🌍  I'm based in Cybertron
 * 🖥️  See my website at [thomson159.github.io](http://thomson159.github.io)
+* 🎲  See my game portfolio at [thomson159.itch.io](https://thomson159.itch.io)
 * 🚀  See my graphic portfolio at [thomson159.artstation.com](https://thomson159.artstation.com)
 * 🤝  I'm open to collaborating on interesting projects
 

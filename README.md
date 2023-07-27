@@ -5,9 +5,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <a href="https://discord.com/users/716946817669005322" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
 
-* 🖥️  See my website at [thomson159.github.io](http://thomson159.github.io)
-* 🎲  See my game portfolio at [thomson159.itch.io](https://thomson159.itch.io)
-* 🚀  See my graphic portfolio at [thomson159.artstation.com](https://thomson159.artstation.com)
+* 🖥️  [thomson159.github.io](http://thomson159.github.io)
+* 🎲  [thomson159.itch.io](https://thomson159.itch.io)
+* 🚀  [thomson159.artstation.com](https://thomson159.artstation.com)
 * 🤝  I'm open to collaborating on interesting projects
 
 <a href="https://www.github.com/thomson159" target="_blank" rel="noreferrer"><img
@@ -15,7 +15,6 @@ src="https://img.shields.io/github/followers/thomson159?logo=github&style=for-th
 
 <a href="https://github.com/thomson159" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomson159&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-## Software
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>

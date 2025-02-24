@@ -4,6 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ![Profile Image](https://github.com/thomson159/thomson159/assets/82395633/a477e009-3dfc-4d03-abbe-9319aec4fb93)
 
 🚀 I am a passionate developer and designer, eager to create innovative projects.
+
 🤝 **Open to collaborations on interesting projects!**
 
 ---

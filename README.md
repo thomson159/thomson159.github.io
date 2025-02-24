@@ -12,6 +12,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - 🎮 [Itch.io](https://thomson159.itch.io)
 - 🎨 [ArtStation](https://thomson159.artstation.com)
 
+🤝 **Open to collaborations on interesting projects!**
+
 <a href="https://www.github.com/thomson159" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/github/followers/thomson159?logo=github&style=for-the-badge&color=a855f7&labelColor=1c1917" />
 </a>
@@ -34,8 +36,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - 🍺 [Wawelskie Piwa](https://wawelskiepiwa.pl/)
 
 - 🌐 [WebCrafty](https://webcrafty.pl/)
-- 🚀 [Duffla](https://duffla-pl.web.app/)
-- 🖥️ [Web2App](https://web2app.app/)
+- 🏠 [Duffla](https://duffla-pl.web.app/)
+- 🚀 [Web2App](https://web2app.app/)
 - 🎫 [Bilet](https://bilet-f7cf6.web.app/)
 
 ---

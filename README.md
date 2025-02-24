@@ -27,18 +27,19 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ---
 
 ### **Highlighted Projects**
-#### **Stats Perform**
+- 🏠 [Duffla](https://duffla-pl.web.app/)
+- 🚀 [Web2App](https://web2app.app/)
+- 🌐 [WebCrafty](https://webcrafty.pl/)
+- 🎫 [Bilet](https://bilet-f7cf6.web.app/)
+
+#### **[Stats Perform](https://www.statsperform.com/)**
 - 🎥 [PressBox Video](https://video.pressbox.statsperform.com/)
-#### **M8B**
+
+#### **[M8B](https://m8b.pl/)**
 - 🏛️ [Politis](https://politis-da543.web.app/)
 - 📊 [SilesiaCoin Dashboard](https://silesiacoin.org/dashboard)
 - 😀 [r3kompensata](https://r3kompensata.pl/)
 - 🍺 [Wawelskie Piwa](https://wawelskiepiwa.pl/)
-#### **Own**
-- 🌐 [WebCrafty](https://webcrafty.pl/)
-- 🏠 [Duffla](https://duffla-pl.web.app/)
-- 🚀 [Web2App](https://web2app.app/)
-- 🎫 [Bilet](https://bilet-f7cf6.web.app/)
 
 ---
 

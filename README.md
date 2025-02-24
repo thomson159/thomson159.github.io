@@ -13,6 +13,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <a href="https://discord.com/users/716946817669005322" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
 - 🎮 [Itch.io](https://thomson159.itch.io)
 - 🎨 [ArtStation](https://thomson159.artstation.com)
+
 <a href="https://www.github.com/thomson159" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/github/followers/thomson159?logo=github&style=for-the-badge&color=a855f7&labelColor=1c1917" />
 </a>

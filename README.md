@@ -16,8 +16,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
   <img src="https://img.shields.io/github/followers/thomson159?logo=github&style=for-the-badge&color=a855f7&labelColor=1c1917" />
 </a>
 
----
-
 <a href="https://github.com/thomson159" align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thomson159&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=a855f7&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
 </a>

@@ -52,6 +52,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 [![the-line](https://img.shields.io/static/v1?label=the-line&message=Visit&color=blue&logo=github)](https://github.com/thomson159/the-line)
 [![scrollytelling](https://img.shields.io/static/v1?label=scrollytelling&message=Visit&color=blue&logo=github)](https://github.com/thomson159/scrollytelling)
 [![Duffla](https://img.shields.io/static/v1?label=Duffla&message=Visit&color=blue&logo=github)](https://github.com/thomson159/Duffla)
+[![Planet](https://img.shields.io/static/v1?label=Planet&message=Visit&color=blue&logo=github)](https://github.com/thomson159/Planet)
 
 ---
 

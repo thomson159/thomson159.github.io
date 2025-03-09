@@ -33,7 +33,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - 🏠 [Duffla](https://duffla-pl.web.app/)
 - 🚀 [Web2App](https://web2app.app/)
 - 🌐 [WebCrafty](https://webcrafty.pl/)
-- 🎫 [Bilet](https://bilet-f7cf6.web.app/)
+- 🎫 [Ticket](https://bilet-f7cf6.web.app/)
 
 #### **[Stats Perform](https://www.statsperform.com/)**
 - 🎥 [PressBox Video](https://video.pressbox.statsperform.com/)
@@ -42,6 +42,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - 🏛️ [Politis](https://politis-da543.web.app/)
 - 📊 [SilesiaCoin Dashboard](https://silesiacoin.org/dashboard)
 - 😀 [r3kompensata](https://r3kompensata.pl/)
+
+[![Web2App-app/app](https://img.shields.io/static/v1?label=Web2App-app/app&message=Visit&color=blue&logo=github)](https://github.com/Web2App-app/app)
+[![silesiacoin/Politis](https://img.shields.io/static/v1?label=silesiacoin/Politis&message=Visit&color=blue&logo=github)](https://github.com/silesiacoin/Politis)
+[![Ticket](https://img.shields.io/static/v1?label=Ticket&message=Visit&color=blue&logo=github)](https://github.com/thomson159/Ticket)
+[![the-line](https://img.shields.io/static/v1?label=the-line&message=Visit&color=blue&logo=github)](https://github.com/thomson159/the-line)
+[![scrollytelling](https://img.shields.io/static/v1?label=scrollytelling&message=Visit&color=blue&logo=github)](https://github.com/thomson159/scrollytelling)
+[![Duffla](https://img.shields.io/static/v1?label=Duffla&message=Visit&color=blue&logo=github)](https://github.com/thomson159/Duffla)
 
 ---
 

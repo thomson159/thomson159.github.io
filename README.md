@@ -43,6 +43,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - 📊 [SilesiaCoin Dashboard](https://silesiacoin.org/dashboard)
 - 😀 [r3kompensata](https://r3kompensata.pl/)
 
+---
+
+### **Pinned Projects**
 [![Web2App-app/app](https://img.shields.io/static/v1?label=Web2App-app/app&message=Visit&color=blue&logo=github)](https://github.com/Web2App-app/app)
 [![silesiacoin/Politis](https://img.shields.io/static/v1?label=silesiacoin/Politis&message=Visit&color=blue&logo=github)](https://github.com/silesiacoin/Politis)
 [![Ticket](https://img.shields.io/static/v1?label=Ticket&message=Visit&color=blue&logo=github)](https://github.com/thomson159/Ticket)

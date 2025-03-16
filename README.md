@@ -30,7 +30,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ---
 
 ### **Highlighted Projects**
-- 🏠 [Duffla](https://duffla-pl.web.app/)
+- 🏠 [Duffla](https://duffla.pl/)
 - 🚀 [Web2App](https://web2app.app/)
 - 🌐 [WebCrafty](https://webcrafty.pl/)
 - 🎫 [Ticket](https://bilet-f7cf6.web.app/)
